@@ -1,0 +1,8 @@
+@charset "utf-8";
+@import "reset.css";
+
+html, body {background-color: #f3eee8; font-family: 'Thasadith', sans-serif;}
+
+header{display: flex;}
+.logo{padding: 192px 96px; font-size: 30px; letter-spacing: 1.5px;}
+.bookmark{width: 70px; height: 70px;}
